@@ -1,0 +1,77 @@
+0 /home/nmashkoor/spill-detect/SpillageData/val/67.jpg 640 480 0 155 312 453 437
+1 /home/nmashkoor/spill-detect/SpillageData/val/105.jpg 640 480 0 12 340 308 387
+2 /home/nmashkoor/spill-detect/SpillageData/val/135.jpg 640 480 0 290 304 580 465
+3 /home/nmashkoor/spill-detect/SpillageData/val/166.jpg 640 480 0 378 303 464 359
+4 /home/nmashkoor/spill-detect/SpillageData/val/207.jpg 640 480 0 184 272 478 417
+5 /home/nmashkoor/spill-detect/SpillageData/val/360.jpg 640 480 1 227 209 437 272
+6 /home/nmashkoor/spill-detect/SpillageData/val/386.jpg 640 480 1 76 265 347 350
+7 /home/nmashkoor/spill-detect/SpillageData/val/389.jpg 640 480 1 11 360 487 478
+8 /home/nmashkoor/spill-detect/SpillageData/val/397.jpg 640 480 1 69 279 348 389
+9 /home/nmashkoor/spill-detect/SpillageData/val/455.jpg 640 480 1 118 279 454 408
+10 /home/nmashkoor/spill-detect/SpillageData/val/521.jpg 640 480 1 67 391 570 477
+11 /home/nmashkoor/spill-detect/SpillageData/val/523.jpg 640 480 1 45 166 519 364
+12 /home/nmashkoor/spill-detect/SpillageData/val/537.jpg 640 480 1 116 298 545 464
+13 /home/nmashkoor/spill-detect/SpillageData/val/646.jpg 640 480 1 3 323 229 474
+14 /home/nmashkoor/spill-detect/SpillageData/val/680.jpg 640 480 1 65 423 330 479
+15 /home/nmashkoor/spill-detect/SpillageData/val/848.jpg 640 480 1 365 297 550 351
+16 /home/nmashkoor/spill-detect/SpillageData/val/878.jpg 640 480 1 106 295 365 380 0 145 402 425 476
+17 /home/nmashkoor/spill-detect/SpillageData/val/922.jpg 640 480 1 95 254 222 300
+18 /home/nmashkoor/spill-detect/SpillageData/val/957.jpg 640 480 1 82 241 221 301 2 177 292 337 367
+19 /home/nmashkoor/spill-detect/SpillageData/val/1030.jpg 640 480 1 90 251 214 291 2 172 298 330 364
+20 /home/nmashkoor/spill-detect/SpillageData/val/1077.jpg 640 480 1 53 375 391 474 2 280 279 400 351
+21 /home/nmashkoor/spill-detect/SpillageData/val/1_(1).jpg 640 480 3 243 323 418 401
+22 /home/nmashkoor/spill-detect/SpillageData/val/1_(2).jpg 640 480 5 157 301 416 372 1 145 364 485 439
+23 /home/nmashkoor/spill-detect/SpillageData/val/1_(3).jpg 640 480 3 263 360 497 479
+24 /home/nmashkoor/spill-detect/SpillageData/val/1_(4).jpg 640 480 3 262 324 438 406
+25 /home/nmashkoor/spill-detect/SpillageData/val/1_(6).jpg 640 480 4 2 217 446 448
+26 /home/nmashkoor/spill-detect/SpillageData/val/1_(7).jpg 640 480 4 5 225 406 457
+27 /home/nmashkoor/spill-detect/SpillageData/val/1_(8).jpg 640 480 3 361 369 480 408
+28 /home/nmashkoor/spill-detect/SpillageData/val/1_(9).jpg 640 480 3 305 268 434 308
+29 /home/nmashkoor/spill-detect/SpillageData/val/1_(10).jpg 640 480 4 179 220 631 464
+30 /home/nmashkoor/spill-detect/SpillageData/val/1_(11).jpg 640 480 4 3 284 525 477
+31 /home/nmashkoor/spill-detect/SpillageData/val/1_(12).jpg 640 480 3 42 236 566 360
+32 /home/nmashkoor/spill-detect/SpillageData/val/1_(13).jpg 640 480 5 318 320 411 379 5 254 380 410 472
+33 /home/nmashkoor/spill-detect/SpillageData/val/1_(14).jpg 640 480 5 317 320 398 364 5 265 387 414 461
+34 /home/nmashkoor/spill-detect/SpillageData/val/1_(15).jpg 640 480 5 319 320 410 366 5 267 389 412 471
+35 /home/nmashkoor/spill-detect/SpillageData/val/1_(16).jpg 640 480 5 271 388 411 472 5 310 323 400 378
+36 /home/nmashkoor/spill-detect/SpillageData/val/1_(17).jpg 640 480 4 297 301 629 422
+37 /home/nmashkoor/spill-detect/SpillageData/val/1_(18).jpg 640 480 4 299 304 626 424
+38 /home/nmashkoor/spill-detect/SpillageData/val/1_(19).jpg 640 480 4 172 296 562 433
+39 /home/nmashkoor/spill-detect/SpillageData/val/1_(20).jpg 640 480 4 6 274 250 388
+40 /home/nmashkoor/spill-detect/SpillageData/val/1_(21).jpg 640 480 5 227 253 465 353
+41 /home/nmashkoor/spill-detect/SpillageData/val/1_(23).jpg 640 480 5 116 318 517 428
+42 /home/nmashkoor/spill-detect/SpillageData/val/1_(24).jpg 640 480 5 235 300 570 403
+43 /home/nmashkoor/spill-detect/SpillageData/val/1_(25).jpg 640 480 5 191 317 532 432
+44 /home/nmashkoor/spill-detect/SpillageData/val/1_(26).jpg 640 480 3 222 306 398 380
+45 /home/nmashkoor/spill-detect/SpillageData/val/1_(27).jpg 640 480 3 207 304 411 374
+46 /home/nmashkoor/spill-detect/SpillageData/val/1_(28).jpg 640 480 3 164 337 386 427
+47 /home/nmashkoor/spill-detect/SpillageData/val/1_(29).jpg 640 480 3 106 326 327 408
+48 /home/nmashkoor/spill-detect/SpillageData/val/1_(30).jpg 640 480 3 117 326 324 408
+49 /home/nmashkoor/spill-detect/SpillageData/val/1_(32).jpg 640 480 3 233 361 496 463
+50 /home/nmashkoor/spill-detect/SpillageData/val/1_(33).jpg 640 480 4 186 256 504 365
+51 /home/nmashkoor/spill-detect/SpillageData/val/1_(34).jpg 640 480 4 191 260 495 363
+52 /home/nmashkoor/spill-detect/SpillageData/val/1_(35).jpg 640 480 4 4 280 182 401
+53 /home/nmashkoor/spill-detect/SpillageData/val/1_(36).jpg 640 480 4 8 287 201 404
+54 /home/nmashkoor/spill-detect/SpillageData/val/1_(37).jpg 640 480 3 294 295 623 423
+55 /home/nmashkoor/spill-detect/SpillageData/val/1_(38).jpg 640 480 4 154 324 598 477
+56 /home/nmashkoor/spill-detect/SpillageData/val/1_(40).jpg 640 480 4 165 320 622 477
+57 /home/nmashkoor/spill-detect/SpillageData/val/1_(41).jpg 640 480 3 180 268 423 356
+58 /home/nmashkoor/spill-detect/SpillageData/val/1_(42).jpg 640 480 3 192 273 420 362
+59 /home/nmashkoor/spill-detect/SpillageData/val/1_(43).jpg 640 480 3 30 268 276 348 1 332 212 552 271
+60 /home/nmashkoor/spill-detect/SpillageData/val/1_(44).jpg 640 480 4 174 232 430 314
+61 /home/nmashkoor/spill-detect/SpillageData/val/1_(45).jpg 640 480 5 42 292 432 475
+62 /home/nmashkoor/spill-detect/SpillageData/val/1_(46).jpg 640 480 5 42 292 432 475
+63 /home/nmashkoor/spill-detect/SpillageData/val/1_(47).jpg 640 480 4 157 341 632 480
+64 /home/nmashkoor/spill-detect/SpillageData/val/1_(48).jpg 640 480 4 154 340 638 476
+65 /home/nmashkoor/spill-detect/SpillageData/val/1_(49).jpg 640 480 3 319 272 569 381 1 6 277 134 379
+66 /home/nmashkoor/spill-detect/SpillageData/val/1_(50).jpg 640 480 5 114 254 376 411
+67 /home/nmashkoor/spill-detect/SpillageData/val/1_(51).jpg 640 480 5 130 252 434 398
+68 /home/nmashkoor/spill-detect/SpillageData/val/1_(52).jpg 640 480 5 136 256 426 398
+69 /home/nmashkoor/spill-detect/SpillageData/val/1_(53).jpg 640 480 5 136 253 428 400
+70 /home/nmashkoor/spill-detect/SpillageData/val/1_(54).jpg 640 480 3 166 303 318 369
+71 /home/nmashkoor/spill-detect/SpillageData/val/1_(55).jpg 640 480 3 151 306 313 364
+72 /home/nmashkoor/spill-detect/SpillageData/val/1_(56).jpg 640 480 5 142 315 475 432
+73 /home/nmashkoor/spill-detect/SpillageData/val/1_(57).jpg 640 480 5 193 353 610 478
+74 /home/nmashkoor/spill-detect/SpillageData/val/1_(58).jpg 640 480 5 209 356 606 475
+75 /home/nmashkoor/spill-detect/SpillageData/val/1_(59).jpg 640 480 3 215 332 403 418
+76 /home/nmashkoor/spill-detect/SpillageData/val/1_(60).jpg 640 480 5 146 376 562 476
